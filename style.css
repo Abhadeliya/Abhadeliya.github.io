@@ -297,11 +297,16 @@ body {
     margin: 0 5px 0 20px;
     font: 30px;
  }
-.footer{
+.footers{
     display: flex;
     justify-content: center !important;
     align-items: center;
     width: 100%;
+}
+.footerBaar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 @keyframes slideRight {
     0% {
